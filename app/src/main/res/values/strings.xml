@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FeedApp</string>
+    <string name="title_activity_fil_actualite">FilActualiteActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cities_array">
+        <item>Rabat</item>
+        <item>Casablanca</item>
+        <item>Agadir</item>
+        <item>Fes</item>
+        <item>Tanger</item>
+    </string-array>
+    <string-array name="role_array">
+        <item>Bénévole</item>
+        <item>Coordinateur</item>
+        <item>Administrateur</item>
+    </string-array>
+</resources>
